@@ -1,0 +1,28 @@
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Tracking dependencies
+filterpy>=1.4.5
+scipy>=1.10.0
+
+# Progress and UI
+rich>=13.0.0
+tqdm>=4.65.0
+
+# Utilities
+pathlib2>=2.3.7
+Pillow>=9.5.0
+matplotlib>=3.7.0
+
+# Optional: GPU support (uncomment if using CUDA)
+# torch-audio>=2.0.0
+# torchtext>=0.15.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
